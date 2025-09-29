@@ -140,7 +140,7 @@ java LoginOrReg
 | 4      | Forget Password       | Reset your password if forgotten     |
 | 5      | Exit                  | Terminate the program gracefully     |
 
-**Enter the Option: ** Take input 
+Enter the Option:            // Take input
 ---
 
 
@@ -159,7 +159,7 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 <p align="center">
 💡 Made with ❤️ using <strong>Java + MySQL</strong>
 </p>
----
+
 
 
 
